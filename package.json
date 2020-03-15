@@ -1,0 +1,12 @@
+{
+  "name": "tspy",
+  "version": "0.0.1",
+  "description": "Typescript library for Pythonista",
+  "main": "src/index.js",
+  "repository": "https://github.com/pyto86pri/tspy.git",
+  "author": "pyto86",
+  "license": "MIT",
+  "devDependencies": {
+    "gts": "^1.1.2"
+  }
+}

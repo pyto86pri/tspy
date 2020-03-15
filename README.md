@@ -1,0 +1,2 @@
+# Pythonista向けTypescriptライブラリ
+TypescriptでPython-likeな実装を補助するライブラリ
